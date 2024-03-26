@@ -7556,3 +7556,217 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:15:57.369
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:15:57.369
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:15:57.369
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:15:57.370
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:15:57.372
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:15:57.375
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:20:32.663
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:20:32.663
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:20:32.663
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:20:32.664
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:20:32.666
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:20:32.667
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.jface 2 0 2024-03-26 15:31:21.694
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-03-26 15:31:21.694
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.toggleLineCommentCommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.tm4e.languageconfiguration.toggleLineCommentCommand"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		WorkbenchHandlerServiceHandler("org.springframework.tooling.boot.ls.ToggleComment"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-26 15:43:27.969
+!MESSAGE Classpath changed for project: khoa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-26 15:43:27.969
+!MESSAGE Boot project REMOVED: khoa
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:43:28.179
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:43:28.180
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:43:28.180
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:43:28.180
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:43:28.183
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:43:28.184
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-26 15:44:23.876
+!MESSAGE Classpath changed for project: khoa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-26 15:44:40.689
+!MESSAGE Classpath changed for project: khoa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-26 15:44:40.689
+!MESSAGE Boot project ADDED: khoa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-26 15:47:21.700
+!MESSAGE Classpath changed for project: NguyenPhuocBaoKhoa_QLBanHang
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-26 15:47:21.700
+!MESSAGE Boot project REMOVED: NguyenPhuocBaoKhoa_QLBanHang
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:47:21.895
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:47:21.895
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:47:21.895
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:47:21.896
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:47:21.898
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-03-26 15:47:21.899
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY Activator 4 0 2024-03-26 15:47:22.119
+!MESSAGE DebugException: Launch configuration NguyenPhuocBaoKhoa_QLBanHang - NguyenPhuocBaoKhoaQlBanHangApplication at file:/D:/Web/63130584_Web2/.metadata/.plugins/org.eclipse.debug.core/.launches/NguyenPhuocBaoKhoa_QLBanHang%20-%20NguyenPhuocBaoKhoaQlBanHangApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration NguyenPhuocBaoKhoa_QLBanHang - NguyenPhuocBaoKhoaQlBanHangApplication at file:/D:/Web/63130584_Web2/.metadata/.plugins/org.eclipse.debug.core/.launches/NguyenPhuocBaoKhoa_QLBanHang%20-%20NguyenPhuocBaoKhoaQlBanHangApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:777)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1251)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:487)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getAttribute(LaunchConfiguration.java:413)
+	at org.springframework.ide.eclipse.boot.launch.devtools.BootDevtoolsClientLaunchConfigurationDelegate.isManaged(BootDevtoolsClientLaunchConfigurationDelegate.java:281)
+	at org.springframework.ide.eclipse.boot.dash.devtools.DevtoolsUtil$1.deleteConf(DevtoolsUtil.java:283)
+	at org.springframework.ide.eclipse.boot.dash.devtools.DevtoolsUtil$1.processTerminated(DevtoolsUtil.java:278)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processTerminated(ProcessTracker.java:112)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.handleDebugEvent(ProcessTracker.java:78)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker$1.handleDebugEvents(ProcessTracker.java:48)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1265)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1299)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:498)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2024-03-26 15:47:22.119
+!MESSAGE Launch configuration NguyenPhuocBaoKhoa_QLBanHang - NguyenPhuocBaoKhoaQlBanHangApplication at file:/D:/Web/63130584_Web2/.metadata/.plugins/org.eclipse.debug.core/.launches/NguyenPhuocBaoKhoa_QLBanHang%20-%20NguyenPhuocBaoKhoaQlBanHangApplication.launch does not exist.
+
+!ENTRY Activator 4 0 2024-03-26 15:47:22.120
+!MESSAGE DebugException: Launch configuration NguyenPhuocBaoKhoa_QLBanHang - NguyenPhuocBaoKhoaQlBanHangApplication at file:/D:/Web/63130584_Web2/.metadata/.plugins/org.eclipse.debug.core/.launches/NguyenPhuocBaoKhoa_QLBanHang%20-%20NguyenPhuocBaoKhoaQlBanHangApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration NguyenPhuocBaoKhoa_QLBanHang - NguyenPhuocBaoKhoaQlBanHangApplication at file:/D:/Web/63130584_Web2/.metadata/.plugins/org.eclipse.debug.core/.launches/NguyenPhuocBaoKhoa_QLBanHang%20-%20NguyenPhuocBaoKhoaQlBanHangApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:777)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1251)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:487)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getAttribute(LaunchConfiguration.java:413)
+	at org.springframework.ide.eclipse.boot.launch.BootLaunchConfigurationDelegate.getEnableJmx(BootLaunchConfigurationDelegate.java:427)
+	at org.springframework.ide.eclipse.boot.dash.BootDashActivator$1.stateChanged(BootDashActivator.java:198)
+	at org.springframework.ide.eclipse.boot.dash.BootDashActivator$1.stateChanged(BootDashActivator.java:1)
+	at org.springframework.ide.eclipse.boot.dash.util.RunStateTracker.updateOwnerStatesAndFireEvents(RunStateTracker.java:216)
+	at org.springframework.ide.eclipse.boot.dash.util.RunStateTracker.processTerminated(RunStateTracker.java:267)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processTerminated(ProcessTracker.java:112)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.handleDebugEvent(ProcessTracker.java:78)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker$1.handleDebugEvents(ProcessTracker.java:48)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1265)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1299)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:498)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2024-03-26 15:47:22.120
+!MESSAGE Launch configuration NguyenPhuocBaoKhoa_QLBanHang - NguyenPhuocBaoKhoaQlBanHangApplication at file:/D:/Web/63130584_Web2/.metadata/.plugins/org.eclipse.debug.core/.launches/NguyenPhuocBaoKhoa_QLBanHang%20-%20NguyenPhuocBaoKhoaQlBanHangApplication.launch does not exist.
+
+!ENTRY Activator 4 0 2024-03-26 15:47:22.120
+!MESSAGE DebugException: Launch configuration NguyenPhuocBaoKhoa_QLBanHang - NguyenPhuocBaoKhoaQlBanHangApplication at file:/D:/Web/63130584_Web2/.metadata/.plugins/org.eclipse.debug.core/.launches/NguyenPhuocBaoKhoa_QLBanHang%20-%20NguyenPhuocBaoKhoaQlBanHangApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration NguyenPhuocBaoKhoa_QLBanHang - NguyenPhuocBaoKhoaQlBanHangApplication at file:/D:/Web/63130584_Web2/.metadata/.plugins/org.eclipse.debug.core/.launches/NguyenPhuocBaoKhoa_QLBanHang%20-%20NguyenPhuocBaoKhoaQlBanHangApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:777)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1251)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:487)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getAttribute(LaunchConfiguration.java:413)
+	at org.springframework.ide.eclipse.boot.launch.BootLaunchConfigurationDelegate.getAutoConnect(BootLaunchConfigurationDelegate.java:454)
+	at org.springframework.ide.eclipse.boot.dash.BootDashActivator$1.stateChanged(BootDashActivator.java:198)
+	at org.springframework.ide.eclipse.boot.dash.BootDashActivator$1.stateChanged(BootDashActivator.java:1)
+	at org.springframework.ide.eclipse.boot.dash.util.RunStateTracker.updateOwnerStatesAndFireEvents(RunStateTracker.java:216)
+	at org.springframework.ide.eclipse.boot.dash.util.RunStateTracker.processTerminated(RunStateTracker.java:267)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processTerminated(ProcessTracker.java:112)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.handleDebugEvent(ProcessTracker.java:78)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker$1.handleDebugEvents(ProcessTracker.java:48)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1265)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1299)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:498)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2024-03-26 15:47:22.120
+!MESSAGE Launch configuration NguyenPhuocBaoKhoa_QLBanHang - NguyenPhuocBaoKhoaQlBanHangApplication at file:/D:/Web/63130584_Web2/.metadata/.plugins/org.eclipse.debug.core/.launches/NguyenPhuocBaoKhoa_QLBanHang%20-%20NguyenPhuocBaoKhoaQlBanHangApplication.launch does not exist.
+
+!ENTRY Activator 4 0 2024-03-26 15:47:22.122
+!MESSAGE DebugException: Launch configuration NguyenPhuocBaoKhoa_QLBanHang - NguyenPhuocBaoKhoaQlBanHangApplication at file:/D:/Web/63130584_Web2/.metadata/.plugins/org.eclipse.debug.core/.launches/NguyenPhuocBaoKhoa_QLBanHang%20-%20NguyenPhuocBaoKhoaQlBanHangApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration NguyenPhuocBaoKhoa_QLBanHang - NguyenPhuocBaoKhoaQlBanHangApplication at file:/D:/Web/63130584_Web2/.metadata/.plugins/org.eclipse.debug.core/.launches/NguyenPhuocBaoKhoa_QLBanHang%20-%20NguyenPhuocBaoKhoaQlBanHangApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:777)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1251)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:487)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.springframework.ide.eclipse.boot.launch.TestJarLaunchListener.clearTestJarWorkspaceProjectFiles(TestJarLaunchListener.java:61)
+	at org.springframework.ide.eclipse.boot.launch.TestJarLaunchListener.launchesTerminated(TestJarLaunchListener.java:197)
+	at org.eclipse.debug.internal.core.LaunchManager$LaunchesNotifier.run(LaunchManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$LaunchesNotifier.notify(LaunchManager.java:257)
+	at org.eclipse.debug.internal.core.LaunchManager.fireUpdate(LaunchManager.java:931)
+	at org.eclipse.debug.core.Launch.fireTerminate(Launch.java:479)
+	at org.eclipse.debug.core.Launch.handleDebugEvents(Launch.java:644)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1265)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1299)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:498)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2024-03-26 15:47:22.122
+!MESSAGE Launch configuration NguyenPhuocBaoKhoa_QLBanHang - NguyenPhuocBaoKhoaQlBanHangApplication at file:/D:/Web/63130584_Web2/.metadata/.plugins/org.eclipse.debug.core/.launches/NguyenPhuocBaoKhoa_QLBanHang%20-%20NguyenPhuocBaoKhoaQlBanHangApplication.launch does not exist.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-26 15:47:59.048
+!MESSAGE Classpath changed for project: NguyenPhuocBaoKhoa_QLSinhVien
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-26 15:47:59.048
+!MESSAGE Boot project ADDED: NguyenPhuocBaoKhoa_QLSinhVien
