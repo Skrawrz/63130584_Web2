@@ -8,7 +8,11 @@ public class SinhVien {
     private String Ten;
     private double Diem;
 
-
+	public SinhVien(String MSSV, String Ten, double Diem) {
+		this.MSSV = MSSV;
+		this.Ten = Ten;
+		this.Diem = Diem;
+	}
     public String getMSSV() {
 		return MSSV;
 	}
@@ -27,12 +31,6 @@ public class SinhVien {
 		return Diem;
 	}
 	public void setDiem(double Diem) {
-		this.Diem = Diem;
-	}
-
-	public SinhVien(String MSSV, String Ten, double Diem) {
-		this.MSSV = MSSV;
-		this.Ten = Ten;
 		this.Diem = Diem;
 	}
 }

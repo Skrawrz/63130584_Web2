@@ -9,8 +9,8 @@ public class SinhVienService {
     private List<SinhVien> danhSach = new ArrayList<>();
 
     public SinhVienService() {
-        danhSach.add(new SinhVien("1", "Nguyễn Văn B", 7.0));
-        danhSach.add(new SinhVien("2", "Nguyễn Văn A", 8.5));
+        danhSach.add(new SinhVien("1", "Nguyễn Văn B", 10));
+        danhSach.add(new SinhVien("2", "Nguyễn Văn A", 8));
     }
 
     public SinhVien timKiem(String ma) {
