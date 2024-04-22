@@ -1,4 +1,4 @@
-package thiGK.ntu63130584;
+package com.dodunghoctap;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

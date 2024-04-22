@@ -1,4 +1,4 @@
-package thiGK.ntu63130584;
+package com.dodunghoctap;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

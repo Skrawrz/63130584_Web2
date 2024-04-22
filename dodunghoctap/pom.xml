@@ -8,7 +8,7 @@
 		<version>3.2.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>vn.dodunghoctap</groupId>
+	<groupId>com.dodunghoctap</groupId>
 	<artifactId>dodunghoctap</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dodunghoctap</name>
