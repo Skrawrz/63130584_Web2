@@ -3,4 +3,9 @@
     <fullyQualifiedTypeName name="vn.skrawrz.khoa.form.PersonForm"/>
     <fullyQualifiedTypeName name="vn.skrawrz.khoa.model.Person"/>
     <fullyQualifiedTypeName name="thiGK.ntu63130584.service.service"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
 </qualifiedTypeNameHistroy>
