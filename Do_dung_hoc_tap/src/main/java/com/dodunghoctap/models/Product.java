@@ -15,7 +15,7 @@ public class Product {
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private int id;
 	private String ten;
-	private double price;
+	private double gia;
 	@Column(columnDefinition = "TEXT")
 	private String chitiet;
 	private String anh;
@@ -31,11 +31,11 @@ public class Product {
 	public void setTen(String ten) {
 		this.ten = ten;
 	}
-	public double getPrice() {
-		return price;
+	public double getGia() {
+		return gia;
 	}
-	public void setPrice(double price) {
-		this.price = price;
+	public void setGia(double gia) {
+		this.gia = gia;
 	}
 	public String getChitiet() {
 		return chitiet;
