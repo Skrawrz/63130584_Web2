@@ -45,7 +45,7 @@ public class ProductsController {
 	}
 	
 	@PostMapping("/create")
-	public String createProduct(@Valid @ModelAttribute ProductsDTO dto,BindingResult result) {
+	public String createProduct(@Valid @ModelAttribute ProductsDTO dto) {
 		MultipartFile image = dto.getAnh();
 		String FileName=image.getOriginalFilename();
 		try {
@@ -90,13 +90,10 @@ public class ProductsController {
 	}
 	
 	@PostMapping("/edit")
-	public String updateProduct(Model model,@RequestParam int id, @Valid @ModelAttribute ProductsDTO dto, BindingResult result) {
+	public String updateProduct(Model model,@RequestParam int id, @Valid @ModelAttribute ProductsDTO dto) {
 		try {
 			Product product = repo.findById(id).get();
 			model.addAttribute("product",product);
-			if(result.hasErrors()) {
-				return "products/EditProduct";
-			}
 			if(!dto.getAnh().isEmpty()) {
 				//Xoa anh cu
 				String uploadDir = "public/images/";
